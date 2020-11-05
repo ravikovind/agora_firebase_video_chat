@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "697442167527",
+    "firebase_url": "https://flutterchatx.firebaseio.com",
+    "project_id": "flutterchatx",
+    "storage_bucket": "flutterchatx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697442167527:android:09f9eb48691cb363cad042",
+        "android_client_info": {
+          "package_name": "com.example.video_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697442167527-tssut4rree30lsb7pm519hq5u089kjd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.video_call",
+            "certificate_hash": "c030aacb96ac331a75203a5617f8bf1688610094"
+          }
+        },
+        {
+          "client_id": "697442167527-muopvmdh6lqg1dokn9l63qhi0fa0hoen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWuX_K3BMxW5HXn11C1_l_SzBrJL_hEQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697442167527-muopvmdh6lqg1dokn9l63qhi0fa0hoen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
